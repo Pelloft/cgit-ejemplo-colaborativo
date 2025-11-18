@@ -1,2 +1,3 @@
 Archivo de prueba para git
 segundo archivo de prueba
+Tercer ejemplo editando dentro de la rama remota
